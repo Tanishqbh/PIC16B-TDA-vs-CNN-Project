@@ -1,4 +1,4 @@
-# PIC16B---TDA-vs-CNN-Project
+# PIC16B - TDA-vs-CNN-Project
 
 # Project Proposal
 ### Abstract
