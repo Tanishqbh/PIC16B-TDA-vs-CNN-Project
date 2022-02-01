@@ -1,5 +1,5 @@
 # PIC16B - TDA-vs-CNN-Project
-
+hi
 # Project Proposal
 ### Abstract
 In this project, we will compare the effectiveness of a topological data analysis based approach to biomedical image classifciation to that of more traditional image classifiers. Specifically, we hope to verify and potentially improve upon the results of the paper *Topological data analysis of high resolution diabetic retinopathy images* (the full paper is available at https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217413). In the paper, the authors generate persistence landscapes through applying a graysclae filtration to diabetic retinopathy images, and this topological data is then fed to a support vector machine in order to classify the images. In this project, we will first reimplement the paper's metholodology using Python and then also compare the results of this methodology to a more traditional image classifcation approach via a convolutional neural network.
